@@ -1,0 +1,10 @@
+python 3.7
+------------------
+pip install opencv-python==4.5.2.52
+pip install matplotlib
+pip install pandas
+pip install sklearn
+pip install scikit-learn==0.22.1
+pip install keras==2.3.1
+pip install tensorflow==1.14.0
+pip install protobuf==3.16.0
